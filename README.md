@@ -39,5 +39,7 @@
 
 ## Результаты
 ![Фото Дома](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/1.jpeg)
+![Фото Дома](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/2.jpeg)
+![Фото Дома](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/3.jpeg)
 ![Фото Дома](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/4.jpeg)
-
+![Фото Дома](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/IMG_1450.MOV)
