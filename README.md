@@ -37,5 +37,7 @@
    используется для управления светодиодами и мотором
 - мотор
 
-![Одна собака](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/1.jpeg)
+## Результаты
+![Фото Дома](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/1.jpeg)
+![Фото Дома](https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/4.jpeg)
 
