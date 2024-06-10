@@ -37,5 +37,5 @@
    используется для управления светодиодами и мотором
 - мотор
 
-
+![Одна собака]((https://github.com/Tamara-Kaplun/Grey_House/blob/main/imag/1.jpeg))
 
