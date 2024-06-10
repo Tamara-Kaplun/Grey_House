@@ -25,7 +25,7 @@
   Деревья и шестеренки были напечатаны на 3D принтере. Их модели находятся в папке [3DModels](https://github.com/Tamara-Kaplun/Grey_House/tree/main/3DModels)
   
 ## Используемые компоненты
-- Arduino Uno
+- Iskra Uno
   Служит для управления электроникой. Скрипт лежит в папке [arduino](https://github.com/Tamara-Kaplun/Grey_House/tree/main/arduino)
 - Motor Shield
   Позволяет подключть мотор
